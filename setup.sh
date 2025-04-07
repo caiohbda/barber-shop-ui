@@ -35,5 +35,3 @@ touch src/app/services/api-client/schedules/schedules.service.ts &&
 touch src/app/services/api-client/schedules/schedule.models.ts &&
 
 yarn add @angular/cdk bootstrap ngx-mask
-
-#npm install @angular/cdk bootstrap ngx-mask
