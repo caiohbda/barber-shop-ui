@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiUrl: 'barber-shop-api.up.railway.app/',
+  apiUrl: 'https://barber-shop-api.up.railway.app/',
 };
